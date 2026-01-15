@@ -14,8 +14,8 @@ from groq import Groq
 from pythonosc import udp_client
 
 # --- CONFIGURARE ---
-GROQ_API_KEY = "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"
-DEEPGRAM_API_KEY = "078df5ae6a23e8db154d5d428d9d66256f070493"
+GROQ_API_KEY = "x"
+DEEPGRAM_API_KEY = "x"
 VOICE_MODEL = "aura-luna-en" 
 
 client_osc = udp_client.SimpleUDPClient("127.0.0.1", 12000)
